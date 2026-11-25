@@ -21,3 +21,12 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+a {
+    color: #00aaff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
