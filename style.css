@@ -12,3 +12,7 @@ h1 {
 h2 {
     color: #cccccc;
 }
+
+p, li {
+    line-height: 1.6;
+}
